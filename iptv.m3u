@@ -13,16 +13,34 @@ http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
 #EXTINF:-1,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
+#EXTINF:-1,KANAL7 HD
+http://bit.do/kanal7hd
 #EXTINF:-1,Kanal D HD
 http://www.iptvsaga.com/play/tv3/0038.m3u8
 #EXTINF:-1,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,SHOW TV HD
 http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
+#EXTINF:-1,SHOW TURK
+http://mn-l.mncdn.com/showturktv/showturktv1/ratus42.m3u8
 #EXTINF:-1,SHOW HD
 http://bit.do/Showtv
 #EXTINF:-1,Show Tv
 http://188.72.131.226/show.m3u8
+#EXTINF:-1,SHOW TV
+http://mn-l.mncdn.com/showtv/showtv2/radyodelisi.m3u8
+#EXTINF:-1,SHOW TV
+http://live-ciner.mncdn.net/showtv/showtv2/radyodelisi.m3u8
+#EXTINF:-1,SHOW TV
+http://85.111.14.54:1935/showtv/showtv2/chunklist.m3u8
+#EXTINF:-1,SHOW TV
+http://mn-l.mncdn.com/showturktv/showturktv1/hasbahca.m3u8
+#EXTINF:-1,SHOW TV
+http://live-ciner.mncdn.net/showtv/showtv2/hasbahca.m3u8
+#EXTINF:-1,SHOW TV
+http://live-ciner.mncdn.net/showturktv/showturktv2/radyodelisi.m3u8
+#EXTINF:-1,SHOW TV
+http://149.255.152.74/hls-live/livepkgr/showtv/showtv/showtv.m3u8
 #EXTINF:-1,TRT DIYANET
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:-1,ÜLKE TV
