@@ -1,12 +1,18 @@
 #EXTM3U
+#EXTINF:-1,ATV
+http://ipsatpro.com:8000/live/turk/turk/380.m3u8
 #EXTINF:-1,BEYAZ TV
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:-1,BLOOMBERG HT
 http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
 #EXTINF:-1,BUGÜN
 http://buguntv-live.ercdn.com/buguntv1.m3u8
+#EXTINF:-1,CNN TURK
+http://ipsatpro.com:8000/live/turk/turk/370.m3u8
 #EXTINF:-1,CNN TURK HD
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,Fox TV HD
+http://ipsatpro.com:8000/live/turk/turk/390.m3u8
 #EXTINF:-1,KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1,KANAL 7
@@ -15,10 +21,14 @@ http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
 #EXTINF:-1,KANAL7 HD
 http://bit.do/kanal7hd
+#EXTINF:-1,Kanal D
+http://ipsatpro.com:8000/live/turk/turk/398.m3u8
 #EXTINF:-1,Kanal D HD
 http://www.iptvsaga.com/play/tv3/0038.m3u8
 #EXTINF:-1,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1,Show TV
+http://ipsatpro.com:8000/live/turk/turk/394.m3u8
 #EXTINF:-1,SHOW TV HD
 http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
 #EXTINF:-1,SHOW TURK
@@ -43,5 +53,7 @@ http://live-ciner.mncdn.net/showturktv/showturktv2/radyodelisi.m3u8
 http://149.255.152.74/hls-live/livepkgr/showtv/showtv/showtv.m3u8
 #EXTINF:-1,TRT DIYANET
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1,TV8
+http://ipsatpro.com:8000/live/turk/turk/382.m3u8
 #EXTINF:-1,ÜLKE TV
 http://bit.do/ulketvhd
