@@ -3,6 +3,8 @@
 http://trkvz-live.ercdn.net/ahaberhd/ahaberhd_480p.m3u8?e=1456489526&st=Po8T0kT7LJzsTCwP-hJnQA
 #EXTINF:-1,ATV
 http://ipsatpro.com:8000/live/turk/turk/380.m3u8
+#EXTINF:-1,ATV HD
+http://trkvz-live.ercdn.net/atvhd/atvhd_480p.m3u8?e=1456490128&st=1BSb7hIK0u4L2yvIpHWnrQ
 #EXTINF:-1,BEYAZ TV
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:-1,BLOOMBERG HT
@@ -43,8 +45,6 @@ http://mn-l.mncdn.com/showtv/showtv2/radyodelisi.m3u8
 http://85.111.14.54:1935/showtv/showtv2/chunklist.m3u8
 #EXTINF:-1,SHOW TV
 http://mn-l.mncdn.com/showturktv/showturktv1/hasbahca.m3u8
-#EXTINF:-1,SHOW TV
-http://149.255.152.74/hls-live/livepkgr/showtv/showtv/showtv.m3u8
 #EXTINF:-1,TRT DIYANET
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:-1,TV8
