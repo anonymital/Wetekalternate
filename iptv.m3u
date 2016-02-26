@@ -35,20 +35,12 @@ http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
 http://mn-l.mncdn.com/showturktv/showturktv1/ratus42.m3u8
 #EXTINF:-1,SHOW HD
 http://bit.do/Showtv
-#EXTINF:-1,Show Tv
-http://188.72.131.226/show.m3u8
 #EXTINF:-1,SHOW TV
 http://mn-l.mncdn.com/showtv/showtv2/radyodelisi.m3u8
-#EXTINF:-1,SHOW TV
-http://live-ciner.mncdn.net/showtv/showtv2/radyodelisi.m3u8
 #EXTINF:-1,SHOW TV
 http://85.111.14.54:1935/showtv/showtv2/chunklist.m3u8
 #EXTINF:-1,SHOW TV
 http://mn-l.mncdn.com/showturktv/showturktv1/hasbahca.m3u8
-#EXTINF:-1,SHOW TV
-http://live-ciner.mncdn.net/showtv/showtv2/hasbahca.m3u8
-#EXTINF:-1,SHOW TV
-http://live-ciner.mncdn.net/showturktv/showturktv2/radyodelisi.m3u8
 #EXTINF:-1,SHOW TV
 http://149.255.152.74/hls-live/livepkgr/showtv/showtv/showtv.m3u8
 #EXTINF:-1,TRT DIYANET
